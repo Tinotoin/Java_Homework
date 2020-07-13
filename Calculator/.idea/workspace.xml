@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3972cb6e-d587-425b-9c44-bf59a59640c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1edKiQ3VmRTxqJYDeEZkgHCBq84" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager" selected="JUnit.CalculatorTest">
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.canSubtract" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="canSubtract" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.CalculatorTest.canSubtract" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3972cb6e-d587-425b-9c44-bf59a59640c0" name="Default Changelist" comment="" />
+      <created>1594646156715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594646156715</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1209" height="242" key="GridCell.Tab.0.bottom" timestamp="1594653476224">
+      <screen x="-338" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1209" height="242" key="GridCell.Tab.0.bottom/-338.-1057.1920.1057/0.23.1280.722@-338.-1057.1920.1057" timestamp="1594653476224" />
+    <state width="1209" height="242" key="GridCell.Tab.0.center" timestamp="1594653476222">
+      <screen x="-338" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1209" height="242" key="GridCell.Tab.0.center/-338.-1057.1920.1057/0.23.1280.722@-338.-1057.1920.1057" timestamp="1594653476222" />
+    <state width="1209" height="242" key="GridCell.Tab.0.left" timestamp="1594653476221">
+      <screen x="-338" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1209" height="242" key="GridCell.Tab.0.left/-338.-1057.1920.1057/0.23.1280.722@-338.-1057.1920.1057" timestamp="1594653476221" />
+    <state width="1209" height="242" key="GridCell.Tab.0.right" timestamp="1594653476223">
+      <screen x="-338" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1209" height="242" key="GridCell.Tab.0.right/-338.-1057.1920.1057/0.23.1280.722@-338.-1057.1920.1057" timestamp="1594653476223" />
+    <state x="-27" y="-874" key="new project wizard" timestamp="1594652343833">
+      <screen x="-338" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-27" y="-874" key="new project wizard/-338.-1057.1920.1057/0.23.1280.722@-338.-1057.1920.1057" timestamp="1594652343833" />
+  </component>
+</project>
